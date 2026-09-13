@@ -120,7 +120,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Panda Popanda"] = true,
     ["La Craft Machine"] = true,
     ["Gold And Diamond"] = true,
-    ["Los Dragons"] = true,
+    ["Los Dragons"] = true
 }
 getgenv().TARGET_BASE_SKINS = {
     ["Octo"] = true,
